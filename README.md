@@ -1,4 +1,8 @@
 This is the first game i made in godot  
+
+https://github.com/user-attachments/assets/1a632e5d-07bc-4d2e-b4b2-0fd214fc587a
+
+
 The inspiration i had for making this game ( or following this tutorial and changing some things ) is that i have been wanting to get into game dev for a while  
 and frankly this engine is the only one i know that can run on my intel celeron (shhh don't tell anyone about that ok.. xD )  
 I decided to start here because i am currently aspiring to be a solodev  
