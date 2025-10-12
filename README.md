@@ -18,3 +18,13 @@ pretty please with sprinkles on top
 this is the link to the tutorial i used for the game: https://www.youtube.com/watch?v=LOhfqjmasi0&t=4104s  
 to any aspiring game dev out there, Hi and nice to meet you  
 Happy Hacking ╰(*°▽°*)╯ 
+
+
+Update 0.5  
+
+ made the level more vertically challenging  
+ added fun new magical items to the game  
+
+Bugs
+
+ fixed a bug that caused enemies to be stuck on certain terrain​
